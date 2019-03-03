@@ -1,0 +1,97 @@
+.body{
+	background-color: white;
+}
+.neuron{
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 80px;
+	font-family: "Merriweather",serif;
+	font-size: 40px;
+	font-style: bold;
+}
+.home{
+	text-align: right;
+	margin-top: 0px;
+	margin-left: 70px;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	font-style: normal;
+}
+.about{
+	text-align: right;
+	margin-top: 0px;
+	margin-left: 70px;
+	margin-right: 20px;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	font-style: normal;
+}
+.gallery{
+	text-align: left;
+	margin-top: 0px;
+	margin-left: 50px;
+	margin-right: 20px;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	font-style: normal;
+}
+.contact{
+	text-align: left;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-right: 20px;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	font-style: normal;
+}
+.block1{
+	position: absolute;
+	
+	background-size: cover;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 40px;
+	left: 0; right: 0; bottom: 80px;top: 80px;
+}
+.ad{
+	text-align: center;
+	margin-top: 130px;
+	font-family: bold;
+	font-family: "Merriweather",serif;
+	font-size: 80px;
+	letter-spacing: 0.5px;
+	color: white;
+}
+.ad1{
+	text-align: center;
+	margin-top: 10px;
+	font-family: bold;
+	font-family: "Merriweather",serif;
+	font-size: 20px;
+	letter-spacing: 0.5px;
+	color: rgb(212, 192, 44);
+}
+.div1{
+	padding: 0px 150px 0px 0px;
+}
+.div2{
+	padding: 0px 80px 0px 0px;
+}
+.d3{
+	padding: 0px 650px 0px 0px;
+	font-family:'Fjalla One', sans-serif;
+	font-size: 30px;
+}
+.d4{
+padding: 0px 910px 0px 60px;
+}
+.d5{
+margin-left: 100px;
+margin-right: 300px;
+color:rgb(82,80,68);
+}
+.d6{
+	padding-left:100px; 
+	padding-right:900px;
+	
+}
